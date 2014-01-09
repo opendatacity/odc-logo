@@ -1,5 +1,7 @@
 # ODC Logo Source
 
+![image](odc-logo.png)
+
 This is the new (as of January 2014) Logo of [OpenDataCity](http://opendatacity.de).
 
 ## Creator
